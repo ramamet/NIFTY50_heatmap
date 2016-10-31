@@ -1,0 +1,31 @@
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+
+/*h1 {
+  font-family: 'Avenir', cursive;
+  font-weight: 22;
+  line-height: 1.1;
+  color: #C63D0F;
+}*/
+
+h1 { color: #C63D0F;
+  font-family: 'Trocchi', serif;
+  font-size: 30px; 
+  font-weight: normal; 
+  line-height: 34px;
+  margin: -1; }
+
+/*
+label { font-size: 20px;
+        font-family: 'Helvetica Neue', sans-serif; 
+        color: #006699;}*/
+        
+label { color: #7c795d; 
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 22px; font-weight: 22;
+  line-height: 24px; margin: 0 0 4px; }     
+  
+              
+ .selectize-input { font-size: 18px; font-family: 'Helvetica Neue', sans-serif;}
+ .selectize-dropdown { font-size: 18px; line-height: 20px; font-family: 'Georgia'; }
+ .selectize-input.focus {border-color: red ;line-height: 1.1;}
+ .selectize-dropdown .active {background: #ffffb3;}
