@@ -1,8 +1,8 @@
 # NIFTY50_heatmap
 
-Heatmap for NIFTY50 stocks - Zoomable
+Heatmap for NIFTY50 index stocks 
 
-##### This app will automatically scrap current market price of NIFTY50 and plot for better understanding of the data.
+##### This app will automatically scrape the current market price of NIFTY50 index stocks and get a plot for better understanding of the data.
 
 ###### October 30th,2016; Stock Weightage Scale on NIFTY index calculation 
 ![heat](https://cloud.githubusercontent.com/assets/16385390/19842264/7c0517e6-9f17-11e6-8f79-8e461b0b17c5.png)
